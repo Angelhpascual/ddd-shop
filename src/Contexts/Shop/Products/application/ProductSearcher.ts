@@ -1,5 +1,4 @@
-import type { ProductRepository } from "./domain/repositories/ProductRepository"
-
+import type { ProductRepository } from "../domain/repositories/ProductRepository"
 export class ProductSearcher {
   private repository: ProductRepository
 
