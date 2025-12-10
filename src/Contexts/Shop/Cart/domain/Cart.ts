@@ -1,3 +1,4 @@
+import type { ProductId } from "../../Products/domain/value-objects/ProductId"
 import type { CartId } from "./value-objects/CartId"
 import { CartItem } from "./value-objects/CartItem"
 
